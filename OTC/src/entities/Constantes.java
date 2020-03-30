@@ -6,7 +6,7 @@ import java.util.List;
 public class Constantes {
 	
 	/*
-	 * Pour ajouter un NOM il suffit d'ajouter une ligne dans la méthode init :
+	 * Pour ajouter un NOM il suffit d'ajouter une ligne dans la mÃ©thode init :
 	 * listeEtds.add("NOM Prenom");
 	 */
 	
@@ -14,7 +14,7 @@ public class Constantes {
 	
 	public void init(){
 		listeEtds.add("MEJRI Houssem");
-		listeEtds.add("NOM Prenom STD");
+		listeEtds.add("Falfoul Yesser STD");
 								
 	}
 
